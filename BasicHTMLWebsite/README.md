@@ -3,7 +3,4 @@
 
 
 Here is the link for the current challenge:
-[\[Basic HTML Website\]](https://roadmap.sh/projects/basic-html-website)
-
-
 https://roadmap.sh/projects/basic-html-website
