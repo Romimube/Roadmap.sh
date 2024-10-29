@@ -3,7 +3,4 @@
 
 
 Here is the link for the current challenge:
-[\[Single Page CV\]](https://roadmap.sh/projects/single-page-cv)
-
-
 https://roadmap.sh/projects/single-page-cv
